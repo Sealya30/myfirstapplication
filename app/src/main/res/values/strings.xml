@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">My First Appi</string>
+    <string name="button">Кнопка</string>
+    <string name="hello">Hello</string>
 </resources>
