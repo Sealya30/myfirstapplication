@@ -3,4 +3,7 @@
     <string name="button">Кнопка</string>
     <string name="hello">Hello</string>
     <string name="random">random</string>
+    <string name="second_activity">Second Activity</string>
+    <string name="next">next</string>
+    <string name="back">back</string>
 </resources>
